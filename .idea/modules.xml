@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BullGuradKafka-build.iml" filepath="$PROJECT_DIR$/.idea/modules/BullGuradKafka-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaStreaming.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaStreaming-build.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaStreaming-build.iml" />
+    </modules>
+  </component>
+</project>
