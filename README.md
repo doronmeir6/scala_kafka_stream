@@ -1,7 +1,7 @@
 # scala_kafka_stream
 a docker with kafka streaming is needed.
 look at the tiopic.xls file first tab upnp_protocol_raw that is an example of message sent to kafkastream docker topic,upnp_protocol_type
-is how the the new data should look like after transform...jpg are shown as an example.
+is how the the new data should look like after transform.png files are added as an example.
 the rules: 
 Please write a Scala code which consume from one topic, do some stuff, and write to another topic as follow:
 consume massages from Kafka topic (upnp_protocol_raw)
